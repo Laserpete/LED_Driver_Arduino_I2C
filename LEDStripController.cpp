@@ -1,6 +1,8 @@
 // Do not remove the include below
 #include "LEDStripcontroller.h"
 
+//A Random change to test new way of using Git
+
 #define intensity 255
 
 int red, blue, green;
